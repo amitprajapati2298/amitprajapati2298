@@ -8,7 +8,7 @@
 
 ![Amit Prajapati's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitprajapati2298&layout=compact&theme=dark)
 
-![Amit Prajapati's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amitprajapati2298&layout=compact)
+![Amit Prajapati's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amitprajapati2298)
 
 
 <!---
